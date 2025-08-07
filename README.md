@@ -1,45 +1,45 @@
+# Superhero Manager - Web2 Project
 
-# 🌟 SuperHero Manager App
+This is my final project for the **Web2 course**.  
+It’s a simple web app to **create, update, delete, and list superheroes** using a frontend and a backend folder.
 
-Une application simple pour gérer une liste de personnages de super-héros ! 🦸‍♂️🦸‍♀️
-
----
-
-## 📁 Structure du projet
+> 🧑‍💻 Built with love by a beginner in web development
 
 ---
 
-## 🚀 Fonctionnalités
+## 🗂️ Project Structure
 
-- ✅ Voir la liste des super-héros
-- ➕ Ajouter un super-héros
-- ✏️ Modifier un super-héros existant
-- ❌ Supprimer un super-héros
-
-Le tout avec une belle interface qui affiche un petit formulaire (ou une carte de confirmation) à chaque action.
 
 ---
 
-## 🛠️ Technologies utilisées
+## 🔧 Features
 
-### Frontend
+- 🔍 **Display** a list of superheroes (name, real name, universe)
+- ➕ **Create** new characters
+- ✏️ **Update** existing characters
+- ❌ **Delete** characters (with confirmation)
+- 📦 Data is managed via a REST API
+
+---
+
+## 🚀 Technologies
+
+### Frontend:
 - React
-- Vite
-- TypeScript
-- Tailwind CSS
+- Tailwind CSS (optional)
+- Axios
 
-### Backend
+### Backend:
 - Node.js
 - Express.js
-- (JSON pour stocker temporairement les données)
+- CORS
 
 ---
 
-## 🔧 Comment démarrer le projet
+## 🛠️ Getting Started
 
-### 1. Cloner le repo
+### 1. Clone the repo
 
 ```bash
 git clone https://github.com/Mandrindra-ops/superhero-manager.git
 cd superhero-manager
-
